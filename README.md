@@ -17,3 +17,7 @@ Use for competitor ad research, positioning analysis, and campaign planning. Rec
 ## Legal and ethical use
 
 Respect platform terms, copyright, trademarks, and privacy requirements. Do not bypass access controls or copy competitor creative. Public ad examples are research inputs, not proof of campaign performance.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
